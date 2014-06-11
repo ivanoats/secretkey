@@ -1,0 +1,24 @@
+{
+  "name": "secretkey",
+  "version": "0.0.1",
+  "description": "Makes a secret hash a la rake secret in rails",
+  "main": "bin/secretkey",
+  "bin": {
+    "secretkey": "./bin/secretkey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanoats/secretkey"
+  },
+  "keywords": [
+    "secret",
+    "hash"
+  ],
+  "author": "Ivan Storck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanoats/secretkey/issues"
+  },
+  "engines": { "node": "*" },
+  "homepage": "https://github.com/ivanoats/secretkey"
+}
