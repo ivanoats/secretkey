@@ -21,3 +21,5 @@ e.g. on Mac OS X: `secretkey | pbcopy` will put a secret key on your clipboard.
 ## Credits
 
 Credit is due to @thejh and @dimadima for their answers on http://stackoverflow.com/questions/8855687/secure-random-token-in-node-js
+
+As well as Šime Vidas and Deviljho for their answer on http://stackoverflow.com/questions/5963182/how-to-remove-spaces-from-a-string-using-javascript
